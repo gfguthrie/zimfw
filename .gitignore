@@ -1,4 +1,4 @@
 *.swp
 *.zwc
 *.zwc.old
-custom/
+.DS_Store
